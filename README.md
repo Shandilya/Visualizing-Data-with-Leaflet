@@ -2,7 +2,7 @@
 Visualizing Data with Leaflet
 
 
-# Unit 17 | Assignment - Visualizing Data with Leaflet
+# Assignment - Visualizing Data with Leaflet
 
 ## Background
 
